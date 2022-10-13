@@ -1,7 +1,7 @@
 # People counting on Jetson Nano
 ![out](https://user-images.githubusercontent.com/107493543/195707863-c246c4b4-bcde-4d65-a986-60d0d051bb01.gif)
 
-In this repo you can find the codes, to implement a monitoring system in Jetson Nano that tracks the flow of people using digital image processing techniques and deep learning. In addition, you can review our posts [People counting on Jetson Nano](https://asesoftware-my.sharepoint.com/personal/ndiaz_asesoftware_com/Documents/WhoAmEye/Art%C3%ADculo4-Resultados.docx?web=1).
+In this repo you can find the codes, to implement a monitoring system in Jetson Nano that tracks the flow of people using digital image processing techniques and deep learning. In addition, you can review our posts [*People counting on Jetson Nano*](https://asesoftware-my.sharepoint.com/personal/ndiaz_asesoftware_com/Documents/WhoAmEye/Art%C3%ADculo4-Resultados.docx?web=1).
 
 ## Hardware and software used
 For the development of this monitoring system, we used a *Jetson Nano Developer Kit A01*, the video input signal is acquired through a *Logitech HD Pro C920 webcam* with 1080p resolution, also this monitoring algorithms were implemented in Python 3.6 using OpenCV and Jetson Utils. The information about the NVIDIA Jetson environment is in the following table.
