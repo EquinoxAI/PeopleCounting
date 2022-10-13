@@ -17,7 +17,8 @@ For the development of this monitoring system, we used a *Jetson Nano Developer 
 | **Vision Works**      | 1.6.0.501     |
 | **VPI**               | 4.4.1-b50     |
 | **Vulcan**            | 1.2.70        |
-Note: If your OpenCV version is different or you are experiencing problems, you can check the following [tutorial](https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html) to install the version used in this implementation.
+
+*Note: If your OpenCV version is different or you are experiencing problems, you can check the following [tutorial](https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html) to install the version used in this implementation.*
 
 ## Control and configuration
 Control and configuration of the Jetson Nano were done through a remote connection, using VNC Viewer and the VS-code Remote-SSH extension. In our post [*Getting started with Jetson Nano and Jetson Inference*](https://asesoftware-my.sharepoint.com/personal/ndiaz_asesoftware_com/Documents/WhoAmEye/Artículo1-Instalación%20y%20configuración.docx), you will find all the steps needed to configure both tools, as well as the basic installation and configuration of Jetson Inference, a library specifically developed to implement deep learning models on Jetson Nano.
