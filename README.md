@@ -1,4 +1,4 @@
-# PeopleCounting
+# People counting
 ![out](https://user-images.githubusercontent.com/107493543/195707863-c246c4b4-bcde-4d65-a986-60d0d051bb01.gif)
 
 ## Hardware and software used
